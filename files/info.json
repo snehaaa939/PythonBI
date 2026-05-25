@@ -1,0 +1,27 @@
+{
+    "9843": {
+        "name": "Rabindra",
+        "age": 30,
+        "course": "Python"
+    },
+    "9844": {
+        "name": "Hari",
+        "age": 25,
+        "course": "Java"
+    },
+    "9845": {
+        "name": "Sita",
+        "age": 22,
+        "course": "Django"
+    },
+    "9846": {
+        "name": "Gita",
+        "age": 28,
+        "course": "Data Science"
+    },
+    "9847": {
+        "name": "Ram",
+        "age": 24,
+        "course": "Machine Learning"
+    }
+}
